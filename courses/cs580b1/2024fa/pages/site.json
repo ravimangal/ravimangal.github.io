@@ -1,0 +1,12 @@
+{
+  "name":"CS 580B1 Web Site",
+  "department":"pages/department.json",
+  "pages": [
+    {"type":"card", "title":"Trustworthy Machine Learning", "menu":"CS580B1 Fall 2024 Section 001", "file":"pages/home.md"},
+    {"type":"card", "title":"Syllabus", "menu":"Syllabus", "file":"pages/syllabus.md"},
+    {"type":"card", "title":"Policies", "menu":"Policies", "file":"pages/policies.md"},
+    {"type":"page", "title":"Schedule", "menu":"Schedule", "file":"pages/schedule.md"},
+    {"type":"card", "title":"Resources", "menu":"Resources", "file":"pages/resources.md"},
+    {"type":"link", "title":"Canvas", "menu":"Canvas", "url":"https://colostate.instructure.com/courses/194165"}
+  ]
+}
