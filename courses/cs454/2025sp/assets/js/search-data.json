@@ -1,0 +1,212 @@
+{"0": {
+    "doc": "Calendar",
+    "title": "Weekly Calendar",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/~cs454/2025sp/calendar/#weekly-calendar",
+    
+    "relUrl": "/calendar/#weekly-calendar"
+  },"1": {
+    "doc": "Calendar",
+    "title": "Monday",
+    "content": "| ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"2": {
+    "doc": "Calendar",
+    "title": "Tuesday",
+    "content": ". | Lecture 12:30 PM–1:45 PM CSB 130 | Office Hours (Jonathon) 4 PM–6 PM CSB 120 | . | ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"3": {
+    "doc": "Calendar",
+    "title": "Wednesday",
+    "content": ". | Office Hours (Jonathon) 10 AM–12 PM CSB 120 | Office Hours (Ravi) 4 PM–5 PM CSB 372 | . | ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Thursday",
+    "content": ". | Office Hours (Jonathon) 10 AM–12 PM CSB 120 | Lecture 12:30 PM–1:45 PM CSB 130 | . | ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/~cs454/2025sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"7": {
+    "doc": "Weekly Schedule",
+    "title": "Weekly Schedule",
+    "content": "The schedule along with the list of topics to be covered are tentative and subject to change. | Week |   | Date | Topic | Assignment | . | 1 | T | 1/21 | Welcome and course overview Slides Notebook | Post a note on Teams to introduce yourself. Review the Syllabus. | . |   | R | 1/23 | No class: Instructor on travel | Setup software and development environment for the course (see here) | . | 2 | T | 1/28 | Basic Introduction to the Scala Language Notebook |   | . |   | R | 1/30 | Recursion Notebook | Assignment 1 released | . | 3 | T | 2/4 | Inductive Definitions and Inductively Defined Structures Notebook |   | . |   | R | 2/6 | Operations on Inductively Defined Structures Notebook | Assignment 1 due Assignment 2 released | . | 4 | T | 2/11 | More Scala: Map, Filter and Fold Notebook |   | . |   | R | 2/13 | Operations on Arithmetic Expressions Notebook | Quiz 1 in class Assignment 2 due Assignment 3 released | . | 5 | T | 2/18 | Big Step Operational Semantics : Introduction Notebook |   | . |   | R | 2/20 | Lettuce: A toy language with let-bindings Notebook | Assignment 3 due Assignment 4 released | . | 6 | T | 2/25 | Lettuce: Scopes and Environments Notebook |   | . |   | R | 2/27 | Lettuce: Scopes and Environments (Continued) | Quiz 2 in class Assignment 4 due Assignment 5 released | . | 7 | T | 3/4 | Function Calls and Closures in Lettuce Notebook |   | . |   | R | 3/6 | Function Calls and Closures in Lettuce (Continued) | Assignment 5 due Assignment 6 released | . | 8 | T | 3/11 | Recursion in Lettuce: Y-Combinators and Circular Scopes Notebook |   | . |   | R | 3/13 | References, Mutable Vars and Side Effects Notebook | Quiz 3 in class Assignment 6 due Assignment 7 released | . | 9 | T | 3/18 | No class: Spring recess |   | . |   | R | 3/20 | No class: Spring recess |   | . | 10 | T | 3/25 | Implicit References Notebook |   | . |   | R | 3/27 | Calling Conventions: Call by Value vs. Reference Notebook | Assignment 7 due Assignment 8 released | . | 11 | T | 4/1 | Garbage Collection: Basic Concepts Notebook |   | . |   | R | 4/3 | Continuation Passing Style Notebook | Quiz 4 in class Assignment 8 due Assignment 9 released | . | 12 | T | 4/8 | Continuation Passing Style (Continued) |   | . |   | R | 4/10 | Trampolines Notebook | Assignment 9 due Assignment 10 released | . | 13 | T | 4/15 | Types and Type Checking Notebook |   | . |   | R | 4/17 | Type Inference: Basic Idea Notebook | Quiz 5 in class Assignment 10 due Assignment 11 released | . | 14 | T | 4/22 | Type Inference: Basic Idea (Continued) |   | . |   | R | 4/24 | Type Inference: Unification and Constraint Solving Notebook | Assignment 11 due Assignment 12 released | . | 15 | T | 4/29 | Introduction to Object Oriented Concepts (in Scala) Notebook |   | . |   | R | 5/1 | Subtyping and Variance Annotations Notebook | Quiz 6 in class Assignment 12 due | . | 16 | T | 5/6 | Lazy Evaluation and Streams Notebook |   | . |   | R | 5/8 | Review |   | . | 17 | Wed | 5/14 | Final Exam in CSB 130 (6:20-8:20 pm) |   | . ",
+    "url": "/~cs454/2025sp/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"8": {
+    "doc": "Software Setup",
+    "title": "Software Setup",
+    "content": "This class will use Jupyter notebooks with the Almond Scala 2 kernel. This is needed to read the lecture notes and solve weekly assignments. Jupyter notebooks allows you to write small Scala snippets that are standalone and run them through an interpreter in the backend. We will use Docker to set up the development environment. Please follow the instructions to set things up on you local machines. | Download and install Docker Desktop. | Start Docker Desktop on your machine. | Create a directory where are all the Jupyter notebooks for this course will live. Lets assume that the directory is named cs454. | Copy this Dockerfile in directory cs454. | Open a terminal window and go to the directory cs454. Then run docker build -t cs454 .. This will create a Docker image named cs454. This Docker image will have all the relevant software installed including Java 11, Scala 2.13, Jupyter, and the Almond Scala kernel. | Start a Docker container using this image by running the following command in the terminal and under the same directory: docker run -d --rm --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 -p 8012:8012 -v &lt;full path to cs454 directory&gt;:/home/cs454 cs454 | Open a browser and go to http://127.0.0.1:8012/. You should see the Juypter interface with a list of all the files and directories in the cs454 directory. Open the notebook that you would like to read or edit. If you edit, make sure to save the notebook. | To exit, close the browser. To stop the Docker container, first, run the following command in the terminal window: docker container ls. This should list all running containers along with their CONTAINER IDs. To stop a container, use the command: docker container stop &lt;CONTAINER ID&gt;. | . ",
+    "url": "/~cs454/2025sp/software/",
+    
+    "relUrl": "/software/"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/~cs454/2025sp/staff/",
+    
+    "relUrl": "/staff/"
+  },"10": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Ravi Mangal . ravi.mangal@colostate.edu . Office Hours Wednesdays 4 - 5 PM in CSB 372 and by appointment . Schedule an appointment . ",
+    "url": "/~cs454/2025sp/staff/#instructors",
+    
+    "relUrl": "/staff/#instructors"
+  },"11": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Jonathon Yallop . Jonathon.Yallop@colostate.edu . Office Hours Tuesdays 4 - 6 PM, Wednesdays 10 AM - 12 PM, Thursdays 10 AM - 12 PM in CSB 120 . ",
+    "url": "/~cs454/2025sp/staff/#teaching-assistants",
+    
+    "relUrl": "/staff/#teaching-assistants"
+  },"12": {
+    "doc": "Home",
+    "title": "CS 454 (Spring 2025): Principles of Programming Languages",
+    "content": " ",
+    "url": "/~cs454/2025sp/#cs-454-spring-2025-principles-of-programming-languages",
+    
+    "relUrl": "/#cs-454-spring-2025-principles-of-programming-languages"
+  },"13": {
+    "doc": "Home",
+    "title": "Table of contents",
+    "content": ". | Course Overview and Goals | Prerequisites | Logistics | Grading . | Grading Thresholds | Late Work Policy | . | Textbook and Resources | Academic Integrity . | Collaboration Policy | Use of Generative AI Tools | . | Course Feedback | Respect in Class | Copyrighted Course Materials | Accommodations for Disabilities | Student Case Management | Mental Health and Wellness | Title IX/Interpersonal Violence | Other Policies and Support Resources | Acknowledgments | . ",
+    "url": "/~cs454/2025sp/#table-of-contents",
+    
+    "relUrl": "/#table-of-contents"
+  },"14": {
+    "doc": "Home",
+    "title": "Course Overview and Goals",
+    "content": "In this course, we will explore the question, “What is a programming language?”. In other words, we will study the fundamental principles of programming language design and implementation. To do so, we will implement a series of increasingly expressive yet tiny programming languages, iteratively adding features to the languages under study. In the process, we will develop a mathematical understanding of programming languages, their formal semantics, and their type systems that ensure program correctness. We will use a functional programming language, Scala, to implement these toy languages. Overall, this course will enable you to (i) Think of programming languages as computational objects of study; (ii) Design and implement programming languages; (iii) Learn new programming languages quickly; (iv) Program in a modern functional programming language. ",
+    "url": "/~cs454/2025sp/#course-overview-and-goals",
+    
+    "relUrl": "/#course-overview-and-goals"
+  },"15": {
+    "doc": "Home",
+    "title": "Prerequisites",
+    "content": "You need to be comfortable programming in Java or C++ or some other programming language (at the level of CS 214, CS 314, or CS 253). This is not an introductory programming course. ",
+    "url": "/~cs454/2025sp/#prerequisites",
+    
+    "relUrl": "/#prerequisites"
+  },"16": {
+    "doc": "Home",
+    "title": "Logistics",
+    "content": "See Staff for the course staff. See Calendar for time/location of lectures and office hours. The lectures will be recorded but we highly encourage you to attend the lectures in person. ",
+    "url": "/~cs454/2025sp/#logistics",
+    
+    "relUrl": "/#logistics"
+  },"17": {
+    "doc": "Home",
+    "title": "Grading",
+    "content": "The overall course grade is divided in to the following components: . | Weekly Assignments (About 12) | 50% | . | Quizzes | 20% | . | Final | 25% | . | Class Participation and Attendance | 5% | . The quizzes will be conducted in the classroom during regular lecture hours. You will be informed about an upcoming quiz a few days in advance. To get full grades on class participation and attendance, you have to do the following: . | Introduce yourself on Teams in the first week of the course. | Fill out a mid-semester feedback survey. | Be present in the class for 5 roll-calls that will be conducted randomly during the semester. In the event that unplanned absences occur due to illness, family emergency, etc., you can seek an attendance allowance from the instructor. It is best to inform the instructor in advance, although we understand that this is not always possible. | . Active engagement in the classroom and on Teams is highly encouraged! . Grading Thresholds . Letter grades will be assigned according to the following thresholds but the instructor reserves the right to curve up based on course circumstances. | Score Range | Letter Grade | . | &gt;= 97 | A+ | . | &gt;= 93 | A | . | &gt;= 90 | A- | . | &gt;= 87 | B+ | . | &gt;= 83 | B | . | &gt;= 80 | B- | . | &gt;= 77 | C+ | . | &gt;= 73 | C | . | &gt;= 70 | C- | . | &gt;= 67 | D+ | . | &gt;= 63 | D | . | &gt;= 60 | D- | . | &lt; 60 | F | . Late Work Policy . Assignments will be due at 11:59 PM on the dates specified in Canvas and the course schedule. We ask that you try your best to submit assignments on time, even if your solution is incomplete. Any late work will be penalized as follows: . | Less than 24 hours late: 5% penalty on the maximum possible grade for the assignment | More than 24 hours late: Submission not accepted | . Late submissions without penalty and extensions beyond 24 hours will only be granted on a case-by-case basis in exceptional circumstances. Such extensions are more likely when permission is sought in advance, for reasons which are unexpected and beyond your control, and which involve only a short extension. For any such extension, appropriate documentary evidence will be required. Even under such exceptional circumstances, the instructor reserves the right to assign a score penalty to late work, depending on the circumstances and degree of lateness. ",
+    "url": "/~cs454/2025sp/#grading",
+    
+    "relUrl": "/#grading"
+  },"18": {
+    "doc": "Home",
+    "title": "Textbook and Resources",
+    "content": "The primary reference for this course will be the course notes that will be uploaded after each lecture on Canvas and this website. The following textbooks are good additional resources: . | Essentials of Programming Languages, 3rd edition by Daniel P. Friedman and Mitchell Wand. | Programming in Scala, 4th edition by Martin Odersky, Lex Spoon, and Bill Venners. | Practical Foundations for Programming Languages by Robert Harper. | Theories of Programming Languages by John C. Reynolds. | . ",
+    "url": "/~cs454/2025sp/#textbook-and-resources",
+    
+    "relUrl": "/#textbook-and-resources"
+  },"19": {
+    "doc": "Home",
+    "title": "Academic Integrity",
+    "content": "This course will adhere to CSU Academic Integrity Policy as found in the the General Catalog and the Student Conduct Code. At a minimum, violations will result in a grading penalty in this course and a report to the Student Conduct Services. Academic integrity lies at the core of our common goal: to create an intellectually honest and rigorous community. Because academic integrity, and the personal and social integrity of which academic integrity is an integral part, is so central to our mission as students, teachers, scholars, and citizens, I will ask that you affirm the CSU Honor Pledge as part of completing your work in this course. Further information about Academic Integrity is available at CSU’s Academic Integrity - Student Resources. Collaboration Policy . All the solutions you turn in for the assignments must be completely your own work. However, you are welcome to work together in learning the material covered in the lectures. You are also allowed to discuss assignments with other students. But the final answers and code you submit must explicitly be your own work. Specifically, . | Do not show any partial solution to another student. | Never share code with other students or on a public-facing website. (Shared code is surprisingly easy to detect.) | Do not search the Internet for solutions. Don’t search on Stack Overflow or anywhere else. | Do ask someone if you’re confused about what the assignment is asking for. | Cite any resources such as web sites, academic papers, or books used to develop your solution. Similarly, acknowledge anyone with whom you discussed the assignment. | Definitely ask the course staff if you’re not sure whether or not something is OK. | . Note that these guidelines do not prevent you from discussions with other students. For example, you may discuss the assignment at the whiteboard with another student, but then you must erase the whiteboard, go home, and write up your solution individually (while also acknowledging the person with whom you discussed). Use of Generative AI Tools . Generative AI tools such as ChatGPT or Claude are increasingly powerful and might be capable of solving some of the assignments. While you may use these tools to understand the course material, the assignments must be your own work and the use of these tools for generating assignment solutions is strictly prohibited (will be treated as a violation of academic integrity). There are multiple reasons why these tools are detrimental to your learning experience: . | They rob you of the ability to think and learn the concepts for yourself since solving problems is an essential step to gaining a solid understanding of the material. | You will struggle with the in-classroom quizzes and exams where you will not have access to these tools. | While we acknowledge that these tools are likely to become an important of a software engineer’s workflow in the future, you are much more likely to use these tools in an effective manner if you already have expertise in the relevant technical topics. Developing such expertise requires putting in the effort to learn these topics without the assistance of these tools. | These tools are prone to generating imperfect or even incorrect solutions, so trusting them blindly can lead to bad consequences. | . Ultimately, you will get out of the class what you put in. Simply copying and pasting code from ChatGPT/Claude will not lead to any learning. If you are stuck on the assignments, reach out to the course staff or your fellow students. The course staff is eager to help you! . ",
+    "url": "/~cs454/2025sp/#academic-integrity",
+    
+    "relUrl": "/#academic-integrity"
+  },"20": {
+    "doc": "Home",
+    "title": "Course Feedback",
+    "content": "If you have any concerns or are not satisfied with the learning experience, please submit anonymous course feedback at the link provided on the Canvas landing page for this course. You do not need to wait until the end of the semester to provide this feedback. I will try to take your feedback into account as I teach the material. ",
+    "url": "/~cs454/2025sp/#course-feedback",
+    
+    "relUrl": "/#course-feedback"
+  },"21": {
+    "doc": "Home",
+    "title": "Respect in Class",
+    "content": "In order to foster curiosity, learning, and an interactive classroom, it is essential to create an environment where everyone—the instructor, TA, and students—feel respected. We require that all communication, in classroom and online, be courteous and inclusive. If any of the communication in the course does not meet this standard, please contact the instructor as soon as possible. If you are uncomfortable discussing with the instructor—for instance, if the instructor is the cause of the problem—please contact your academic advisor or the department chair. In class use of electronic devices in general, and laptops specifically, is permitted as a courtesy so that you may better participate and learn. If at any time the instructor judges that your use of an electronic device is becoming a distraction to others, you may be asked to to turn it off and put it away. On the other hand, if you encounter behavior that distracts from your learning, please inform the course staff. Please also refer to the CSU Principles of Community as a guideline for the expected behavior in the course: . | Inclusion: We create and nurture inclusive environments and welcome, value and affirm all members of our community, including their various identities, skills, ideas, talents and contributions. | Integrity: We are accountable for our actions and will act ethically and honestly in all our interactions. | Respect: We honor the inherent dignity of all people within an environment where we are committed to freedom of expression, critical discourse, and the advancement of knowledge. | Service: We are responsible, individually and collectively, to give of our time, talents, and resources to promote the well-being of each other and the development of our local, regional, and global communities. | Social Justice: We have the right to be treated and the responsibility to treat others with fairness and equity, the duty to challenge prejudice, and to uphold the laws, policies and procedures that promote justice in all respects. | . ",
+    "url": "/~cs454/2025sp/#respect-in-class",
+    
+    "relUrl": "/#respect-in-class"
+  },"22": {
+    "doc": "Home",
+    "title": "Copyrighted Course Materials",
+    "content": "Please do not share materials from this course in online, print, or other media. The course materials, include your or anyone else’s solutions to the lab assignments, quizzes, and exams. Materials authored by third parties and used in the course are also subject to copyright protections. Posting course materials on external sites (commercial or not) violates both copyright law and the CSU Student Conduct Code. In particular, do not post your solutions to the assignments and projects in a public source code repository, such as public GitHub repositories. Students who share course content without the instructor’s express permission, including with online sites that post materials to sell to other students, could face appropriate disciplinary or legal action. ",
+    "url": "/~cs454/2025sp/#copyrighted-course-materials",
+    
+    "relUrl": "/#copyrighted-course-materials"
+  },"23": {
+    "doc": "Home",
+    "title": "Accommodations for Disabilities",
+    "content": "We will go by the policies set forth by the University. Please inform the instructor about any accommodations you may need early in the semester. CSU is committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. If you are a student who will need accommodations in this class, please contact your instructor to discuss your individual needs. Any accommodation must be discussed in a timely manner. A verifying memo from The Student Disability Center (SDC) may be required before any accommodation is provided. The Student Disability Center (SDC) has the authority to verify and confirm the eligibility of students with disabilities for the majority of accommodations. While some accommodations may be provided by other departments, a student is not automatically eligible for those accommodations unless their disability can be verified and the need for the accommodation confirmed, either through SDC or through acceptable means defined by the particular department. Faculty and staff may consult with the SDC staff whenever there is doubt as to the appropriateness of an accommodative request by a student with a disability. The goal of SDC is to normalize disability as part of the culture of diversity at Colorado State University. The characteristic of having a disability simply provides the basis of the support that is available to students. The goal is to ensure students with disabilities have the opportunity to be as successful as they have the capability to be. Support and services are offered to student with functional limitations due to visual, hearing, learning, or mobility disabilities as well as to students who have specific physical or mental health conditions due to epilepsy, diabetes, asthma, AIDS, psychiatric diagnoses, etc. Students who are temporarily disabled are also eligible for support and assistance. Any student who is enrolled at CSU, and who self-identifies with SDC as having a disability, is eligible for support from SDC. Specific accommodations are determined individually for each student and must be supported by appropriate documentation and/or evaluation of needs consistent with a particular type of disability. SDC reserves the right to ask for any appropriate documentation of disability in order to determine a student’s eligibility for accommodations as well as in support for specific accommodative requests. The accommodative process begins once a student meets with an accommodation’s specialist in the SDC. ",
+    "url": "/~cs454/2025sp/#accommodations-for-disabilities",
+    
+    "relUrl": "/#accommodations-for-disabilities"
+  },"24": {
+    "doc": "Home",
+    "title": "Student Case Management",
+    "content": "We will go by the policies set forth by the University. The Student Case Management &amp; Referral Coordination office provides crisis prevention and intervention services. In difficult or crisis situations, students may find it challenging to navigate the academic consequences, university processes, and campus and community resources available. Student Case Management consult with students, faculty, staff, families, and providers to offer guidance on the next best steps. We help find the best approach to support students in the immediate situation and provide referrals for ongoing support. When students have difficult or life impacting issues that affect their academic work, it is recommended that you speak directly with your professor about your course work. Open and regular communication with your professor is the recommended first course of action. ",
+    "url": "/~cs454/2025sp/#student-case-management",
+    
+    "relUrl": "/#student-case-management"
+  },"25": {
+    "doc": "Home",
+    "title": "Mental Health and Wellness",
+    "content": "CSU is a community that cares. You are not alone. CSU Health Network Mental Health Services has trained professionals who can help. Your student fees provide access to a wide range of mental health and well-being support services. Call Mental Health Services at (970) 491-6053, and they will work together with you to find out which services are right for you. CSU Health Network Mental Health Services . Student mental health and well-being resources . If you are concerned about a friend or peer, use Tell Someone by calling (970) 491-1350 or visiting Tell Someone to share your concerns with a professional who can discreetly connect the distressed individual with the proper resources. Rams Take Care of Rams. Reach out and ask for help if you or someone you know is having a difficult time. ",
+    "url": "/~cs454/2025sp/#mental-health-and-wellness",
+    
+    "relUrl": "/#mental-health-and-wellness"
+  },"26": {
+    "doc": "Home",
+    "title": "Title IX/Interpersonal Violence",
+    "content": "We will go by the policies set forth by the University. For the full statement regarding role and responsibilities about reporting harassment, sexual harassment, sexual misconduct, domestic violence, dating violence, stalking, and the retaliation policy please go to: Title IX – Sexual Assault, Sexual Violence, Sexual Harassment. If you feel that your rights have been compromised at CSU, several resources are available to assist: . | Student Resolution Center, 200 Lory Student Center, 491-7165 | Office of Equal Opportunity, 101 Student Services, 491-5836 | . A note about interpersonal violence: If you or someone you know has experienced sexual assault, relationship violence and/or stalking, know that you are not alone. As instructors, we are required by law to notify university officials about disclosures related to interpersonal violence. Confidential victim advocates are available 24 hours a day, 365 days a year to provide support related to the emotional, physical, physiological and legal aftermath of interpersonal violence. Contact the Victim Assistance Team at: 970-492-4242. ",
+    "url": "/~cs454/2025sp/#title-ixinterpersonal-violence",
+    
+    "relUrl": "/#title-ixinterpersonal-violence"
+  },"27": {
+    "doc": "Home",
+    "title": "Other Policies and Support Resources",
+    "content": "Please see this for other policies relevant to the course and resources to help with various challenges you may encounter. ",
+    "url": "/~cs454/2025sp/#other-policies-and-support-resources",
+    
+    "relUrl": "/#other-policies-and-support-resources"
+  },"28": {
+    "doc": "Home",
+    "title": "Acknowledgments",
+    "content": "The materials for this course including the lectures notes, assignments, and projects were originally developed by Prof. Sriram Sankaranarayanan for the course Principles of Programming Languages (CSCI 3155) offered at the University of Colorado Boulder. I have only made minor modifications to these materials and am very grateful to Sriram for his generosity. In developing this course, I have also consulted materials developed by Prof. Bor-Yuh Evan Chang at University of Colorado Boulder, Prof. Shriram Krishnamurthi at Brown University, Prof. Steven Holtzen at Northeastern University, Prof. Adrian Sampson at Cornell University, and Prof. Lindsey Kuper at UC Santa Cruz. This website is generated using Jekyll with the theme Just the Class developed by Kevin Lin. ",
+    "url": "/~cs454/2025sp/#acknowledgments",
+    
+    "relUrl": "/#acknowledgments"
+  },"29": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/~cs454/2025sp/",
+    
+    "relUrl": "/"
+  }
+}
