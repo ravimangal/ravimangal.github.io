@@ -1,0 +1,23 @@
+FROM --platform=linux/arm64 python:3.10-slim
+
+WORKDIR /home/cs445
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir \
+    notebook \
+    ipykernel \
+    numpy \
+    pandas \
+    scikit-learn \
+    matplotlib \
+    torch torchvision torchaudio
+
+EXPOSE 8012
+
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8012", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
+

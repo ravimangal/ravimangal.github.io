@@ -1,0 +1,247 @@
+{"0": {
+    "doc": "Calendar",
+    "title": "Weekly Calendar",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/courses/cs445/2026sp/calendar/#weekly-calendar",
+    
+    "relUrl": "/calendar/#weekly-calendar"
+  },"1": {
+    "doc": "Calendar",
+    "title": "Monday",
+    "content": ". | Office Hours (Austin) 4:00 PM–5:00 PM CSB 120 and Online | Office Hours (Sifat) 6:00 PM–7:00 PM Online | . | ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"2": {
+    "doc": "Calendar",
+    "title": "Tuesday",
+    "content": ". | Lecture 2:00 PM–3:15 PM Wagar 133 | Office Hours (Ravi) 3:30 PM–4:30 PM CSB 372 | . | ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"3": {
+    "doc": "Calendar",
+    "title": "Wednesday",
+    "content": ". | Office Hours (Austin) 11:00 AM–12:00 PM CSB 120 and Online | Office Hours (Sifat) 3:00 PM–6:00 PM CSB 120 and Online | . | ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Thursday",
+    "content": ". | Lecture 2:00 PM–3:15 PM Wagar 133 | Office Hours (Ravi) 3:30 PM–4:30 PM CSB 372 | . | ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Friday",
+    "content": "| ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Saturday",
+    "content": ". | Office Hours (Austin) 1:00 PM–2:00 PM Online | . | . ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"7": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/courses/cs445/2026sp/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"8": {
+    "doc": "Weekly Schedule",
+    "title": "Weekly Schedule",
+    "content": "The schedule along with the list of topics to be covered are tentative and subject to change. | Week |   | Date | Module | Topic | Assignment | . | 1 | T | 1/20 | Introduction | Welcome and course overview Slides Notebook | Post a note on Teams to introduce yourself. Review the Syllabus. | . |   | R | 1/22 |   | Linear algebra basics; GPU basics | Setup software and development environment for the course (see here) | . | 2 | T | 1/27 | Supervised Learning/Regression | Introduction to regression; Non-neural methods: Linear regression |   | . |   | R | 1/29 |   | Non-neural methods: Non-linear regression |   | . | 3 | T | 2/3 |   | Introduction to neural networks |   | . |   | R | 2/5 |   | Introduction to neural networks (cont.) |   | . | 4 | T | 2/10 |   | Gradient descent with ADAM |   | . |   | R | 2/12 |   | Partitioning data; Hyperparameters |   | . | 5 | T | 2/17 |   | ReLU activation |   | . |   | R | 2/19 |   | PyTorch Autograd |   | . | 6 | T | 2/24 | Supervised Learning/Classification | Introduction to classification |   | . |   | R | 2/26 |   | Non-neural methods: Linear logistic classifier |   | . | 7 | T | 3/3 |   | Non-neural methods: K-nearest neighbors, SVMs, and Decision trees |   | . |   | R | 3/5 |   | Neural methods: Non-linear logistic classifiers |   | . | 8 | T | 3/10 |   | Neural methods: Convolutional Neural Networks (CNNs) for visual data |   | . |   | R | 3/12 |   | Mid-term Exam in Wagar 133 |   | . | 9 | T | 3/17 |   | No class: Spring recess |   | . |   | R | 3/19 |   | No class: Spring recess |   | . | 10 | T | 3/24 |   | Training CNNs |   | . |   | R | 3/26 |   | CNNs in PyTorch |   | . | 11 | T | 3/31 |   | Neural methods: Recurrent Neural Networks (RNNs) for sequential data |   | . |   | R | 4/2 | Semi-supervised Learning | Neural methods: Transformers |   | . | 12 | T | 4/7 |   | Neural methods: Large Language Models (LLMs) |   | . |   | R | 4/9 | Reinforcement Learning (RL) | Introduction to RL |   | . | 13 | T | 4/14 |   | Neural methods for RL |   | . |   | R | 4/16 |   | RL for controlling robots |   | . | 14 | T | 4/21 |   | RL for game-playing |   | . |   | R | 4/23 | Unsupervised Learning | Introduction; Non-neural methods: linear dimensionality reduction |   | . | 15 | T | 4/28 |   | Neural methods: non-linear dimensionality reduction with autoencoders |   | . |   | R | 4/30 |   | Non-neural methods: K-means clustering |   | . | 16 | T | 5/5 | Advanced Topics | Can we trust AI? |   | . |   | R | 5/7 |   | Review |   | . | 17 | T | 5/12 |   | Final Exam in Wagar 133 (9:40-11:40 am) |   | . ",
+    "url": "/courses/cs445/2026sp/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"9": {
+    "doc": "Software Setup",
+    "title": "Software Setup",
+    "content": "This class will use Jupyter Notebooks. This is needed to read the lecture notes and work on the assignments. This document provides instructions for setting up your environment for running and developing programs in Jupyter Notebooks. We recommend one of four options: . | Local setup using Miniconda | Local setup using Docker | Remote setup using VSCode on CS Lab Computers | Cloud setup using Google Colab | . ",
+    "url": "/courses/cs445/2026sp/software/",
+    
+    "relUrl": "/software/"
+  },"10": {
+    "doc": "Software Setup",
+    "title": "1) Local Setup using Miniconda",
+    "content": "Some assignments will require access to a GPU. We recommend that you only take this route if you have a NVIDIA GPU within your local device or plan on using another setup method listed below (i.e., Google Colab or Remote Access to Lab Computers) for assignments requiring GPUs. Non-NVIDIA GPUs can be used, but they require different setup instructions. Miniconda is a free, miniature installation of Anaconda Distribution that includes only conda, Python, the packages they both depend on, and a small number of other useful packages. We recommend using the Miniconda installation over the Anaconda installation for those more familiar with using the terminal to access their environments and files. GTA’s will also be able to better troubleshoot and diagnose issues due to familiarity. | Click the following link and download the Miniconda installer. Ensure you select the download compatible with the OS (Windows/Mac/Linux): https://www.anaconda.com/download/success . | Once downloaded, run the installer and follow the setup wizard instructions. The install options given depend on personal preference. The default installation options are recommended for those who are unfamiliar with the software. Restart your computer. | After installation, open the terminal and type: . conda --version . This will verify if the installation is successful. | It is important to use environments for a number of reasons, such as avoiding version conflicts, system protection, and to ensure reproducibility of model performance. To create a virtual environment, we will use the following command within the terminal: . conda create --name preferred_name python=3.10 . Replace ‘preferred_name’ with your preferred naming convention. | Once created, activate the environment using the command: . conda activate preferred_name . This will activate the created environment. You will know you were successful if the environment name is displayed on the left of the active terminal line. Additionally, the environment can be deactivated using the command: . conda deactivate . It is important that you activate this environment any time you work on an assignment. | The libraries we will be using consistently through this course are NumPy, MatPlotLib, and Pandas. These can be easily installed using the following command in the terminal: . conda install -y notebook ipykernel numpy pandas scikit-learn matplotlib pytorch torchvision torchaudio . | Next, students should decide whether they want to open their notes and assignments in Jupyter Notebooks or in Visual Studio Code. | . Jupyter Notebooks . | With the conda environment active, navigate to the directory where you will be storing the notebook files, and use the command: . jupyter notebook . Running the command should start a local server and open your web browser automatically. If this does not happen, you can copy and paste the local host URL displayed in the terminal to your preferred browser. You should be able to see all the files within your directory listed within the webpage. | . Visual Studio Code . | Download the VS Code installer if you do not already have it downloaded: https://code.visualstudio.com/download . | Once downloaded, run the installer and ensure the options “Add to PATH (requires shell restart)” and “Register Code as an editor for supported file types” is checked. | When installed, restart your computer. Once restarted, open the terminal and activate your virtual environment. Navigate to the directory with your files, then type the command: . code . Alternatively, students can open VS Code by clicking the application and opening their preferred folder within the VS Code application. | Visual Studio Code will open with all of your files. On the left-hand side, select the extensions tab. Install the extensions “Python”, “Python Debugger”, and “Jupyter”. All three will have Microsoft listed as the author/publisher. | After the extensions are installed press Ctrl + Shift + P and a drop-down menu should appear at the top of the screen below the search bar. Select “Python: Select Interpreter” then choose the interpreter in the list that contains your environment name. | Open the Jupyter Notebook . | . ",
+    "url": "/courses/cs445/2026sp/software/#1-local-setup-using-miniconda",
+    
+    "relUrl": "/software/#1-local-setup-using-miniconda"
+  },"11": {
+    "doc": "Software Setup",
+    "title": "2) Local Setup using Docker",
+    "content": "Some assignments will require access to a GPU. We recommend that you only take this route if you have a NVIDIA GPU within your local device or plan on using another setup method listed below (i.e., Google Colab or Remote Access to Lab Computers) for assignments requiring GPUs. Non-NVIDIA GPUs can be used, but they require different setup instructions. We can use Docker to set up the development environment. Please follow the instructions to set things up on your local machines. | Download and install Docker Desktop | Start Docker Desktop on your machine | Create a directory where all the Jupyter notebooks for this course will live. For this case, we use cs445. | Copy this Dockerfile in directory cs445. | Open a terminal window and go to the directory cs445. Then run: . docker build -t cs445 . This will create a Docker image named cs445. This Docker image will have all the relevant software installed. You only have to do this the first time. | Start a Docker container using this image by running the following command in the terminal and under the same directory: . docker run -d --rm --name cs445-student --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 -p 8012:8012 -v &lt;full path to cs445 directory&gt;:/home/cs445 cs445 . | Open a browser and go to http://127.0.0.1:8012/. You should see the Jupyter interface with a list of all the files and directories in the cs445 directory. Open the notebook that you would like to read or edit. If you edit, make sure to save the notebook. | To exit, close the browser. To stop the Docker container, first, run the following command in the terminal window: . docker container ls . This should list all running containers along with their CONTAINER IDs. To stop a container, use the command: . docker container stop &lt;CONTAINER ID&gt; . | . ",
+    "url": "/courses/cs445/2026sp/software/#2-local-setup-using-docker",
+    
+    "relUrl": "/software/#2-local-setup-using-docker"
+  },"12": {
+    "doc": "Software Setup",
+    "title": "3) Remote Setup using VS Code on CS Lab Computers",
+    "content": "Visual Studio Code (or VS Code) is an IDE that allows you to remote into the CS Lab Computers using SSH. In this use-case Visual Studio Code is installed and running on your personal machine (laptop or desktop). You write and edit code on your laptop but connect to the CS machines to run the code. The connection is handled by a proprietary SSH extension which you will need to install on your laptop. Here are the instructions on how to remote into one of the machines. You would need to use CSU’s Global Protect VPN. | Install VSCode. For installation instructions, refer to this earlier section. | Remote into one of the CS Lab computers using VSCode (For this case, we will use frankfort.cs.colostate.edu) . A list of lab terminals can be found in the following link. We highly recommend choosing a terminal that has a GPU: https://www.cs.colostate.edu/machinestats/?column=hostname&amp;order=asc . | If this is your first time connecting remotely into these machines, VSCode may ask you to choose the platform/OS. Use Linux. | Create a folder in your Linux account where all the Jupyter notebooks for this course will live. For this case, we use cs445. mkdir cs445 . | Install the Jupyter extension from Microsoft on your VSCode . | Open the interactive terminal in VSCode and run the command: . module load python/anaconda/py3.10-2023.03 . | Open and run a Jupyter notebook on VSCode. When asked to choose a Python version, use: . /usr/local/anaconda3/2023.03/bin/python . | Install any packages that might be missing using pip install &lt;package-name&gt; . | To stop using the module, run module purge . | . ",
+    "url": "/courses/cs445/2026sp/software/#3-remote-setup-using-vs-code-on-cs-lab-computers",
+    
+    "relUrl": "/software/#3-remote-setup-using-vs-code-on-cs-lab-computers"
+  },"13": {
+    "doc": "Software Setup",
+    "title": "4) Cloud Setup using Google Colab",
+    "content": "Google Colab is a free, cloud-based service provided by Google that allows users to write and execute Python code in their web browser and is based on the open-source Jupyter Notebook environment. This service is most often used for machine learning, data analysis, and education. It is an imperative resource for those who do not have GPU access. Students will need a Google account to access Google Colab. | Navigate to Google Colab and sign in with your Google account: https://colab.research.google.com/ . | Once signed in, click the “+ New” button in the upper left corner and then select “File Upload” in the dropdown menu to select the file you want to upload. | Once selected, the file should appear on the Google Colab home screen. Double-click the file to open it. | Navigate to the Runtime &gt; Change runtime type and ensure the runtime type is Python 3 and that T4 GPU is selected as the Hardware accelerator, then click save on the screen. | To run uploaded files in full, click the “Run all” button at the top of the notebook. If you wish to run one cell at a time, a circle play button can be found in the top right corner of each cell. | To install specific packages, terminal commands can be run within a notebook cell. For example, the command to install numpy is: . !pip install numpy . | . If none of the options work for you, come see a TA during office hours. ",
+    "url": "/courses/cs445/2026sp/software/#4-cloud-setup-using-google-colab",
+    
+    "relUrl": "/software/#4-cloud-setup-using-google-colab"
+  },"14": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/courses/cs445/2026sp/staff/",
+    
+    "relUrl": "/staff/"
+  },"15": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Ravi Mangal . ravi.mangal@colostate.edu . Office Hours Tuesdays and Thursdays 3:30 - 4:30 PM in CSB 372 and by appointment . Schedule an appointment . ",
+    "url": "/courses/cs445/2026sp/staff/#instructors",
+    
+    "relUrl": "/staff/#instructors"
+  },"16": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Austin Youngren . Austin.Youngren@colostate.edu . Office Hours Mondays 4 - 5 PM (CSB 120 &amp; Online), Wednesdays 11 AM - 12 PM (CSB 120 &amp; Online), Saturdays 1 - 2 PM (Online only) . Sifat Anindho . sifatul.anindho@colostate.edu . Office Hours Mondays 6 - 7 PM (Online), Wednesdays 3 - 6 PM (CSB 120 &amp; Online) . ",
+    "url": "/courses/cs445/2026sp/staff/#teaching-assistants",
+    
+    "relUrl": "/staff/#teaching-assistants"
+  },"17": {
+    "doc": "Home",
+    "title": "CS 445 (Spring 2026): Introduction to Machine Learning",
+    "content": " ",
+    "url": "/courses/cs445/2026sp/#cs-445-spring-2026-introduction-to-machine-learning",
+    
+    "relUrl": "/#cs-445-spring-2026-introduction-to-machine-learning"
+  },"18": {
+    "doc": "Home",
+    "title": "Table of contents",
+    "content": ". | Course Overview and Goals | Prerequisites | Logistics | Grading . | Grading Thresholds | Late Work Policy | . | Textbook and Resources | Academic Integrity . | Collaboration Policy | Use of Generative AI Tools | . | Course Feedback | Respect in Class | Copyrighted Course Materials | Accommodations for Disabilities | Student Case Management | Mental Health and Wellness | Title IX/Interpersonal Violence | Other Policies and Support Resources | Acknowledgments | . ",
+    "url": "/courses/cs445/2026sp/#table-of-contents",
+    
+    "relUrl": "/#table-of-contents"
+  },"19": {
+    "doc": "Home",
+    "title": "Course Overview and Goals",
+    "content": "This course will introduce to modern machine learning based on neural networks. We will discuss the mathematical foundations of neural networks and gradient-based methods for training them. We will talk about different neural network architectures such as feedforward, convolutional, recurrent, and Transformers. We will learn about different learning paradigms such as supervised, unsupervised, semi-supervised, and reinforcement learning. Along the way, you will learn to write code and train neural networks using the popular deep learning framework, Pytorch. ",
+    "url": "/courses/cs445/2026sp/#course-overview-and-goals",
+    
+    "relUrl": "/#course-overview-and-goals"
+  },"20": {
+    "doc": "Home",
+    "title": "Prerequisites",
+    "content": "You need to be comfortable programming in Python. Ideally, you should have also know the basics of machine learning (at the level of CS 345). ",
+    "url": "/courses/cs445/2026sp/#prerequisites",
+    
+    "relUrl": "/#prerequisites"
+  },"21": {
+    "doc": "Home",
+    "title": "Logistics",
+    "content": "See Staff for the course staff. See Calendar for time/location of lectures and office hours. The lectures will be recorded but, if you are registered the on-campus version of the course, we highly encourage you to attend the lectures in person. ",
+    "url": "/courses/cs445/2026sp/#logistics",
+    
+    "relUrl": "/#logistics"
+  },"22": {
+    "doc": "Home",
+    "title": "Grading",
+    "content": "The overall course grade is divided in to the following components: . | Assignments (About 6) | 50% | . | Daily Quizzes | 10% | . | Mid-term | 15% | . | Final | 20% | . | Class Participation | 5% | . The quizzes will be conducted in the classroom during regular lecture hours. Every lecture will include a short quiz. If you are an online student, you will be submit the answers to the quiz until midnight of the day after the quiz is offered. For example, for quizzes during Tuesday lectures, you can submit the answers until 11:59 PM on Wednesdays. To get full grades on class participation, you have to do the following: . | Introduce yourself on Teams in the first week of the course. | Participate actively in the classroom and online discussions | . Active engagement in the classroom and on Teams is highly encouraged! . Grading Thresholds . Letter grades will be assigned according to the following thresholds but the instructor reserves the right to curve up based on course circumstances. | Score Range | Letter Grade | . | &gt;= 97 | A+ | . | &gt;= 93 | A | . | &gt;= 90 | A- | . | &gt;= 87 | B+ | . | &gt;= 83 | B | . | &gt;= 80 | B- | . | &gt;= 77 | C+ | . | &gt;= 73 | C | . | &gt;= 70 | C- | . | &gt;= 67 | D+ | . | &gt;= 63 | D | . | &gt;= 60 | D- | . | &lt; 60 | F | . Late Work Policy . Assignments will be due at 11:59 PM on the dates specified in Canvas and the course schedule. We ask that you try your best to submit assignments on time, even if your solution is incomplete. Any late work will be penalized as follows: . | Less than 24 hours late: 5% penalty on the maximum possible grade for the assignment | More than 24 hours late: Submission not accepted | . Late submissions without penalty and extensions beyond 24 hours will only be granted on a case-by-case basis in exceptional circumstances. Such extensions are more likely when permission is sought in advance, for reasons which are unexpected and beyond your control, and which involve only a short extension. For any such extension, appropriate documentary evidence will be required. Even under such exceptional circumstances, the instructor reserves the right to assign a score penalty to late work, depending on the circumstances and degree of lateness. ",
+    "url": "/courses/cs445/2026sp/#grading",
+    
+    "relUrl": "/#grading"
+  },"23": {
+    "doc": "Home",
+    "title": "Textbook and Resources",
+    "content": "The primary reference for this course will be the course notes that will be uploaded after each lecture on Canvas and this website. The following textbooks are good additional resources: . | Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alex J. Smola | TinyTorch by Vijay Janapa Reddi | Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville | Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy | Patterns, Predictions, and Actions by Moritz Hardt and Ben Recht ",
+    "url": "/courses/cs445/2026sp/#textbook-and-resources",
+    
+    "relUrl": "/#textbook-and-resources"
+  },"24": {
+    "doc": "Home",
+    "title": "Academic Integrity",
+    "content": "This course will adhere to CSU Academic Integrity Policy as found in the the General Catalog and the Student Conduct Code. At a minimum, violations will result in a grading penalty in this course and a report to the Student Conduct Services. | . Academic integrity lies at the core of our common goal: to create an intellectually honest and rigorous community. Because academic integrity, and the personal and social integrity of which academic integrity is an integral part, is so central to our mission as students, teachers, scholars, and citizens, I will ask that you affirm the CSU Honor Pledge as part of completing your work in this course. Further information about Academic Integrity is available at CSU’s Academic Integrity - Student Resources. Collaboration Policy . All the solutions you turn in for the assignments must be completely your own work. However, you are welcome to work together in learning the material covered in the lectures. You are also allowed to discuss assignments with other students. But the final answers and code you submit must explicitly be your own work. Specifically, . | Do not show any partial solution to another student. | Never share code with other students or on a public-facing website. (Shared code is surprisingly easy to detect.) | Do not search the Internet for solutions. | Do ask someone if you’re confused about what the assignment is asking for. | Cite any resources such as web sites, academic papers, or books used to develop your solution. Similarly, acknowledge anyone with whom you discussed the assignment. | Definitely ask the course staff if you’re not sure whether or not something is OK. | . Note that these guidelines do not prevent you from discussions with other students. For example, you may discuss the assignment at the whiteboard with another student, but then you must erase the whiteboard, go home, and write up your solution individually (while also acknowledging the person with whom you discussed). Use of Generative AI Tools . Generative AI tools such as ChatGPT, Claude, and Gemini are increasingly powerful and might be capable of solving some of the assignments. While you may use these tools to understand the course material, the assignments must be your own work and the use of these tools for generating assignment solutions is strictly prohibited (will be treated as a violation of academic integrity). There are multiple reasons why these tools are detrimental to your learning experience: . | They rob you of the ability to think and learn the concepts for yourself since solving problems is an essential step to gaining a solid understanding of the material. | You will struggle with the in-classroom quizzes and exams where you will not have access to these tools. | While we acknowledge that these tools are likely to become an important of a software engineer’s workflow in the future, you are much more likely to use these tools in an effective manner if you already have expertise in the relevant technical topics. Developing such expertise requires putting in the effort to learn these topics without the assistance of these tools. | These tools are prone to generating imperfect or even incorrect solutions, so trusting them blindly can lead to bad consequences. | . Ultimately, you will get out of the class what you put in. Simply copying and pasting code from ChatGPT/Claude will not lead to any learning. If you are stuck on the assignments, reach out to the course staff or your fellow students. The course staff is eager to help you! . ",
+    "url": "/courses/cs445/2026sp/#academic-integrity",
+    
+    "relUrl": "/#academic-integrity"
+  },"25": {
+    "doc": "Home",
+    "title": "Course Feedback",
+    "content": "If you have any concerns or are not satisfied with the learning experience, please submit anonymous course feedback at the link provided on the Canvas landing page for this course. You do not need to wait until the end of the semester to provide this feedback. I will try to take your feedback into account as I teach the material. ",
+    "url": "/courses/cs445/2026sp/#course-feedback",
+    
+    "relUrl": "/#course-feedback"
+  },"26": {
+    "doc": "Home",
+    "title": "Respect in Class",
+    "content": "In order to foster curiosity, learning, and an interactive classroom, it is essential to create an environment where everyone—the instructor, TA, and students—feel respected. We require that all communication, in classroom and online, be courteous and inclusive. If any of the communication in the course does not meet this standard, please contact the instructor as soon as possible. If you are uncomfortable discussing with the instructor—for instance, if the instructor is the cause of the problem—please contact your academic advisor or the department chair. In class use of electronic devices in general, and laptops specifically, is permitted as a courtesy so that you may better participate and learn. If at any time the instructor judges that your use of an electronic device is becoming a distraction to others, you may be asked to to turn it off and put it away. On the other hand, if you encounter behavior that distracts from your learning, please inform the course staff. Please also refer to the CSU Principles of Community as a guideline for the expected behavior in the course: . | Inclusion: We create and nurture inclusive environments and welcome, value and affirm all members of our community, including their various identities, skills, ideas, talents and contributions. | Integrity: We are accountable for our actions and will act ethically and honestly in all our interactions. | Respect: We honor the inherent dignity of all people within an environment where we are committed to freedom of expression, critical discourse, and the advancement of knowledge. | Service: We are responsible, individually and collectively, to give of our time, talents, and resources to promote the well-being of each other and the development of our local, regional, and global communities. | Social Justice: We have the right to be treated and the responsibility to treat others with fairness and equity, the duty to challenge prejudice, and to uphold the laws, policies and procedures that promote justice in all respects. | . ",
+    "url": "/courses/cs445/2026sp/#respect-in-class",
+    
+    "relUrl": "/#respect-in-class"
+  },"27": {
+    "doc": "Home",
+    "title": "Copyrighted Course Materials",
+    "content": "Please do not share materials from this course in online, print, or other media. The course materials, include your or anyone else’s solutions to the lab assignments, quizzes, and exams. Materials authored by third parties and used in the course are also subject to copyright protections. Posting course materials on external sites (commercial or not) violates both copyright law and the CSU Student Conduct Code. In particular, do not post your solutions to the assignments and projects in a public source code repository, such as public GitHub repositories. Students who share course content without the instructor’s express permission, including with online sites that post materials to sell to other students, could face appropriate disciplinary or legal action. ",
+    "url": "/courses/cs445/2026sp/#copyrighted-course-materials",
+    
+    "relUrl": "/#copyrighted-course-materials"
+  },"28": {
+    "doc": "Home",
+    "title": "Accommodations for Disabilities",
+    "content": "We will go by the policies set forth by the University. Please inform the instructor about any accommodations you may need early in the semester. CSU is committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. If you are a student who will need accommodations in this class, please contact your instructor to discuss your individual needs. Any accommodation must be discussed in a timely manner. A verifying memo from The Student Disability Center (SDC) may be required before any accommodation is provided. The Student Disability Center (SDC) has the authority to verify and confirm the eligibility of students with disabilities for the majority of accommodations. While some accommodations may be provided by other departments, a student is not automatically eligible for those accommodations unless their disability can be verified and the need for the accommodation confirmed, either through SDC or through acceptable means defined by the particular department. Faculty and staff may consult with the SDC staff whenever there is doubt as to the appropriateness of an accommodative request by a student with a disability. The goal of SDC is to normalize disability as part of the culture of diversity at Colorado State University. The characteristic of having a disability simply provides the basis of the support that is available to students. The goal is to ensure students with disabilities have the opportunity to be as successful as they have the capability to be. Support and services are offered to student with functional limitations due to visual, hearing, learning, or mobility disabilities as well as to students who have specific physical or mental health conditions due to epilepsy, diabetes, asthma, AIDS, psychiatric diagnoses, etc. Students who are temporarily disabled are also eligible for support and assistance. Any student who is enrolled at CSU, and who self-identifies with SDC as having a disability, is eligible for support from SDC. Specific accommodations are determined individually for each student and must be supported by appropriate documentation and/or evaluation of needs consistent with a particular type of disability. SDC reserves the right to ask for any appropriate documentation of disability in order to determine a student’s eligibility for accommodations as well as in support for specific accommodative requests. The accommodative process begins once a student meets with an accommodation’s specialist in the SDC. ",
+    "url": "/courses/cs445/2026sp/#accommodations-for-disabilities",
+    
+    "relUrl": "/#accommodations-for-disabilities"
+  },"29": {
+    "doc": "Home",
+    "title": "Student Case Management",
+    "content": "We will go by the policies set forth by the University. The Student Case Management &amp; Referral Coordination office provides crisis prevention and intervention services. In difficult or crisis situations, students may find it challenging to navigate the academic consequences, university processes, and campus and community resources available. Student Case Management consult with students, faculty, staff, families, and providers to offer guidance on the next best steps. We help find the best approach to support students in the immediate situation and provide referrals for ongoing support. When students have difficult or life impacting issues that affect their academic work, it is recommended that you speak directly with your professor about your course work. Open and regular communication with your professor is the recommended first course of action. ",
+    "url": "/courses/cs445/2026sp/#student-case-management",
+    
+    "relUrl": "/#student-case-management"
+  },"30": {
+    "doc": "Home",
+    "title": "Mental Health and Wellness",
+    "content": "CSU is a community that cares. You are not alone. CSU Health Network Mental Health Services has trained professionals who can help. Your student fees provide access to a wide range of mental health and well-being support services. Call Mental Health Services at (970) 491-6053, and they will work together with you to find out which services are right for you. CSU Health Network Mental Health Services . Student mental health and well-being resources . If you are concerned about a friend or peer, use Tell Someone by calling (970) 491-1350 or visiting Tell Someone to share your concerns with a professional who can discreetly connect the distressed individual with the proper resources. Rams Take Care of Rams. Reach out and ask for help if you or someone you know is having a difficult time. ",
+    "url": "/courses/cs445/2026sp/#mental-health-and-wellness",
+    
+    "relUrl": "/#mental-health-and-wellness"
+  },"31": {
+    "doc": "Home",
+    "title": "Title IX/Interpersonal Violence",
+    "content": "We will go by the policies set forth by the University. For the full statement regarding role and responsibilities about reporting harassment, sexual harassment, sexual misconduct, domestic violence, dating violence, stalking, and the retaliation policy please go to: Title IX – Sexual Assault, Sexual Violence, Sexual Harassment. If you feel that your rights have been compromised at CSU, several resources are available to assist: . | Student Resolution Center, 200 Lory Student Center, 491-7165 | Office of Equal Opportunity, 101 Student Services, 491-5836 | . A note about interpersonal violence: If you or someone you know has experienced sexual assault, relationship violence and/or stalking, know that you are not alone. As instructors, we are required by law to notify university officials about disclosures related to interpersonal violence. Confidential victim advocates are available 24 hours a day, 365 days a year to provide support related to the emotional, physical, physiological and legal aftermath of interpersonal violence. Contact the Victim Assistance Team at: 970-492-4242. ",
+    "url": "/courses/cs445/2026sp/#title-ixinterpersonal-violence",
+    
+    "relUrl": "/#title-ixinterpersonal-violence"
+  },"32": {
+    "doc": "Home",
+    "title": "Other Policies and Support Resources",
+    "content": "Please see this for other policies relevant to the course and resources to help with various challenges you may encounter. ",
+    "url": "/courses/cs445/2026sp/#other-policies-and-support-resources",
+    
+    "relUrl": "/#other-policies-and-support-resources"
+  },"33": {
+    "doc": "Home",
+    "title": "Acknowledgments",
+    "content": "The materials for this course including the lecture notebooks and assignments were originally developed by Prof. Chuck Anderson and have since been modified by Prof. Nate Blanchard, Prof. Nikhil Krishnaswamy, and Prof. Sarath Sreedharan. I have made some modifications to these materials and take the responsibility for any mistakes or typos in them. I would also like to thank Prof. Asa Ben-Hur for helpful discussions and sharing his course materials for CS 545. In developing this course, I have consulted materials from a number of other sources and these are cited in the relevant lecture notebooks. This website is generated using Jekyll with the theme Just the Class developed by Kevin Lin. ",
+    "url": "/courses/cs445/2026sp/#acknowledgments",
+    
+    "relUrl": "/#acknowledgments"
+  },"34": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/courses/cs445/2026sp/",
+    
+    "relUrl": "/"
+  }
+}
