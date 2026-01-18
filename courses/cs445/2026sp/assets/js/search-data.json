@@ -119,11 +119,11 @@
     "relUrl": "/staff/#teaching-assistants"
   },"17": {
     "doc": "Home",
-    "title": "CS 445 (Spring 2026): Introduction to Machine Learning",
+    "title": "CS 445 (Spring 2026): Introduction to Machine Learning Deep Learning",
     "content": " ",
-    "url": "/courses/cs445/2026sp/#cs-445-spring-2026-introduction-to-machine-learning",
+    "url": "/courses/cs445/2026sp/#cs-445-spring-2026-introduction-to-machine-learning-deep-learning",
     
-    "relUrl": "/#cs-445-spring-2026-introduction-to-machine-learning"
+    "relUrl": "/#cs-445-spring-2026-introduction-to-machine-learning-deep-learning"
   },"18": {
     "doc": "Home",
     "title": "Table of contents",
