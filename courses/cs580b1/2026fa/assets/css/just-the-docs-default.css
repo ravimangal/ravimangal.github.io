@@ -7492,25 +7492,28 @@ summary {
 .schedule-table table {
   table-layout: fixed;
   width: 100%;
-  min-width: 700px;
+  min-width: 900px;
 }
 .schedule-table table th:nth-child(1), .schedule-table table td:nth-child(1) {
-  width: 10%;
+  width: 6%;
 }
 .schedule-table table th:nth-child(2), .schedule-table table td:nth-child(2) {
   width: 4%;
 }
 .schedule-table table th:nth-child(3), .schedule-table table td:nth-child(3) {
-  width: 8%;
+  width: 9%;
 }
 .schedule-table table th:nth-child(4), .schedule-table table td:nth-child(4) {
-  width: 20%;
+  width: 16%;
 }
 .schedule-table table th:nth-child(5), .schedule-table table td:nth-child(5) {
-  width: 30%;
+  width: 23%;
 }
 .schedule-table table th:nth-child(6), .schedule-table table td:nth-child(6) {
-  width: 28%;
+  width: 24%;
+}
+.schedule-table table th:nth-child(7), .schedule-table table td:nth-child(7) {
+  width: 18%;
 }
 
 .main-content dl {
