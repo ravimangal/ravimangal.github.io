@@ -114,127 +114,127 @@
     "doc": "Home",
     "title": "CS 580B1/CS 480B1 (Fall 2026): Trustworthy AI",
     "content": " ",
-    "url": "/courses/cs580b1/2026fa/#cs-580b1cs-480b1-fall-2026-trustworthy-ai",
+    "url": "/courses/cs580b1/2026fa/syllabus/#cs-580b1cs-480b1-fall-2026-trustworthy-ai",
     
-    "relUrl": "/#cs-580b1cs-480b1-fall-2026-trustworthy-ai"
+    "relUrl": "/syllabus/#cs-580b1cs-480b1-fall-2026-trustworthy-ai"
   },"17": {
     "doc": "Home",
     "title": "Table of contents",
     "content": ". | Course Overview and Goals | Prerequisites | Logistics | Grading . | Grading Thresholds | Late Work Policy | . | Textbook and Resources | Academic Integrity . | Collaboration Policy | Generative AI Policy | . | Course Feedback | Respect in Class | Copyrighted Course Materials | Accommodations for Disabilities | Student Case Management | Mental Health and Wellness | Title IX/Interpersonal Violence | Other Policies and Support Resources | Acknowledgments | . ",
-    "url": "/courses/cs580b1/2026fa/#table-of-contents",
+    "url": "/courses/cs580b1/2026fa/syllabus/#table-of-contents",
     
-    "relUrl": "/#table-of-contents"
+    "relUrl": "/syllabus/#table-of-contents"
   },"18": {
     "doc": "Home",
     "title": "Course Overview and Goals",
     "content": "Although AI-based systems show remarkable capabilities, we do not understand how they work and when they fail. As these systems proliferate in our society, we are forced to ask, “can we trust AI?”. In this course, you will learn: . | How AI fails and what it means to trust AI? Examine how deep neural networks (DNNs) can be brittle, opaque, and overconfident, and learn to state a claim about a model precisely enough that it could be shown to be false. | How to test and improve trustworthiness of AI? Learn and implement algorithms for adversarial attacks and defenses, for certifying robustness with mathematical guarantees, for telling whether a model knows when it is wrong, and for explaining opaque decisions — not only by attributing them to the inputs that caused them, but by reading the internal representations that produced them. | How large language models (LLMs) and AI agents exacerbate trust challenges? Study techniques such as jailbreaking and prompt injection that easily break today’s most advanced AI systems, along with failures introduced during training itself, such as data poisoning, backdoors that survive safety training, and reward hacking. | . By the end of this course, you will be able to critically think about AI capabilities and risks without the hype. Practically, you will be able to implement algorithms for testing and improving AI systems. You will also be able to tell the difference between a property we can prove, one we can only measure, and one we can only watch for while the system runs. ",
-    "url": "/courses/cs580b1/2026fa/#course-overview-and-goals",
+    "url": "/courses/cs580b1/2026fa/syllabus/#course-overview-and-goals",
     
-    "relUrl": "/#course-overview-and-goals"
+    "relUrl": "/syllabus/#course-overview-and-goals"
   },"19": {
     "doc": "Home",
     "title": "Prerequisites",
     "content": "You need to be comfortable programming in Python and with the use of the PyTorch framework. You should have also know the basics of deep learning (at the level of CS 445), including familiarity with convolutional networks and Transformers. ",
-    "url": "/courses/cs580b1/2026fa/#prerequisites",
+    "url": "/courses/cs580b1/2026fa/syllabus/#prerequisites",
     
-    "relUrl": "/#prerequisites"
+    "relUrl": "/syllabus/#prerequisites"
   },"20": {
     "doc": "Home",
     "title": "Logistics",
     "content": "See Staff for the course staff. See Calendar for time/location of lectures and office hours. The lectures will be recorded but, if you are registered the on-campus version of the course, we strongly encourage you to attend the lectures in person. ",
-    "url": "/courses/cs580b1/2026fa/#logistics",
+    "url": "/courses/cs580b1/2026fa/syllabus/#logistics",
     
-    "relUrl": "/#logistics"
+    "relUrl": "/syllabus/#logistics"
   },"21": {
     "doc": "Home",
     "title": "Grading",
     "content": "The overall course grade is divided in to the following components: . | Assignments (4-5) | 35% | . | Final Project | 15% | . | Daily Quizzes | 10% | . | Mid-term | 20% | . | Final | 20% | . The quizzes will be conducted in the classroom during regular lecture hours. Every lecture will include a short quiz. If you are an online student, you will be allowed to submit the answers to the quiz until midnight of the second day after the quiz is offered. For example, for quizzes during Tuesday lectures, you can submit the answers until 11:59 PM on Thursdays. Active engagement in the classroom and on Teams is highly encouraged! . Grading Thresholds . Letter grades will be assigned according to the following thresholds but the instructor reserves the right to curve up based on course circumstances. | Score Range | Letter Grade | . | &gt;= 97 | A+ | . | &gt;= 93 | A | . | &gt;= 90 | A- | . | &gt;= 87 | B+ | . | &gt;= 83 | B | . | &gt;= 80 | B- | . | &gt;= 77 | C+ | . | &gt;= 73 | C | . | &gt;= 70 | C- | . | &gt;= 67 | D+ | . | &gt;= 63 | D | . | &gt;= 60 | D- | . | &lt; 60 | F | . Late Work Policy . Assignments will be due at 11:59 PM on the dates specified in Canvas and the course schedule. We ask that you try your best to submit assignments on time, even if your solution is incomplete. Any late work will be penalized as follows: . | Less than 24 hours late: 5% penalty on the maximum possible grade for the assignment | More than 24 hours late: Submission not accepted | . Late submissions without penalty and extensions beyond 24 hours will only be granted on a case-by-case basis in exceptional circumstances. Such extensions are more likely when permission is sought in advance, for reasons which are unexpected and beyond your control, and which involve only a short extension. For any such extension, appropriate documentary evidence will be required. Even under such exceptional circumstances, the instructor reserves the right to assign a score penalty to late work, depending on the circumstances and degree of lateness. ",
-    "url": "/courses/cs580b1/2026fa/#grading",
+    "url": "/courses/cs580b1/2026fa/syllabus/#grading",
     
-    "relUrl": "/#grading"
+    "relUrl": "/syllabus/#grading"
   },"22": {
     "doc": "Home",
     "title": "Textbook and Resources",
     "content": "There are no textbooks for this course. Instructor will provide all the necessary materials. ",
-    "url": "/courses/cs580b1/2026fa/#textbook-and-resources",
+    "url": "/courses/cs580b1/2026fa/syllabus/#textbook-and-resources",
     
-    "relUrl": "/#textbook-and-resources"
+    "relUrl": "/syllabus/#textbook-and-resources"
   },"23": {
     "doc": "Home",
     "title": "Academic Integrity",
     "content": "This course will adhere to CSU Academic Integrity Policy as found in the the General Catalog and the Student Conduct Code. At a minimum, violations will result in a grading penalty in this course and a report to the Student Conduct Services. If you think you violated the policy (it can happen, especially under time pressure!), please reach out to us; the consequences will be less severe than if we approach you. Academic integrity lies at the core of our common goal: to create an intellectually honest and rigorous community. Because academic integrity, and the personal and social integrity of which academic integrity is an integral part, is so central to our mission as students, teachers, scholars, and citizens, I will ask that you affirm the CSU Honor Pledge as part of completing your work in this course. Further information about Academic Integrity is available at CSU’s Academic Integrity - Student Resources. Collaboration Policy . All the solutions you turn in for the assignments must be completely your own work. However, you are welcome to work together in learning the material covered in the lectures. You are also allowed to discuss assignments with other students. But the final answers and code you submit must explicitly be your own work. Not following these rules will be treated as a violation of academic integrity policy. Specifically, . | Do not show any partial solution to another student. | Never share code with other students or on a public-facing website. (Shared code is surprisingly easy to detect.) | Do not search the Internet for solutions. | Do ask someone if you’re confused about what the assignment is asking for. | Cite any resources such as web sites, academic papers, or books used to develop your solution. Similarly, acknowledge anyone with whom you discussed the assignment. | Definitely ask the course staff if you’re not sure whether or not something is OK. | . Note that these guidelines do not prevent you from discussions with other students. For example, you may discuss the assignment at the whiteboard with another student, but then you must erase the whiteboard, go home, and write up your solution individually (while also acknowledging the person with whom you discussed). Generative AI Policy . Generative AI tools such as ChatGPT, Claude, and Gemini are increasingly powerful and are capable of solving the assignments. You may use generative AI tools as you like (for instance, brainstorming and narrowing a topic; explaining a concept you find confusing; writing and debugging code; writing a draft and getting feedback on it; generating practice questions to test yourself) unless otherwise specified but you will be expected to fully understand your submitted work and be able to answer questions about it. For each assignment, a subset of students will be selected for an interview with the instructor. You can expect to be selected at least twice during the semester for such interviews. When you use AI on work you submit, add a brief note (2-3 sentences) at the end: which tool, what you asked it, and what you did with the response. This does not affect your grade and it is not a penalty. It is how this class builds a shared sense of what these tools are actually good for. You are responsible for everything you submit, including anything an AI produced. These tools state false things confidently, invent citations and sources, and write code that runs while doing the wrong thing. If it is in your submission, you are vouching for it. Note that there are multiple reasons why blindly using these tools is detrimental to your learning experience: . | They rob you of the ability to think and learn the concepts for yourself since solving problems is an essential step to gaining a solid understanding of the material. | You will struggle with the in-classroom quizzes and exams where you will not have access to these tools. | While we acknowledge that these tools have become an important of a software engineer’s workflow in the future, you are much more likely to use these tools in an effective manner if you already have expertise in the relevant technical topics. Developing such expertise requires putting in the effort to learn these topics without the assistance of these tools. | These tools are prone to generating imperfect or even incorrect solutions, so trusting them blindly can lead to bad consequences. | . Ultimately, you will get out of the class what you put in. Simply copying and pasting code generated by these tools will not lead to any learning. If you are stuck on the assignments, reach out to the course staff or your fellow students. The course staff is eager to help you! If you are unsure whether a particular use is permitted, ask me first. I would much rather answer that question in advance than adjudicate it afterward. AI-enabled assistive technology authorized by a student’s accommodation letter is permitted in this course. ",
-    "url": "/courses/cs580b1/2026fa/#academic-integrity",
+    "url": "/courses/cs580b1/2026fa/syllabus/#academic-integrity",
     
-    "relUrl": "/#academic-integrity"
+    "relUrl": "/syllabus/#academic-integrity"
   },"24": {
     "doc": "Home",
     "title": "Course Feedback",
     "content": "If you have any concerns or are not satisfied with the learning experience, please submit anonymous course feedback at the link provided on the Canvas landing page for this course. You do not need to wait until the end of the semester to provide this feedback. I will try to take your feedback into account as I teach the material. ",
-    "url": "/courses/cs580b1/2026fa/#course-feedback",
+    "url": "/courses/cs580b1/2026fa/syllabus/#course-feedback",
     
-    "relUrl": "/#course-feedback"
+    "relUrl": "/syllabus/#course-feedback"
   },"25": {
     "doc": "Home",
     "title": "Respect in Class",
     "content": "In order to foster curiosity, learning, and an interactive classroom, it is essential to create an environment where everyone—the instructor, TA, and students—feel respected. We require that all communication, in classroom and online, be courteous and inclusive. If any of the communication in the course does not meet this standard, please contact the instructor as soon as possible. If you are uncomfortable discussing with the instructor—for instance, if the instructor is the cause of the problem—please contact your academic advisor or the department chair. In class use of electronic devices in general, and laptops specifically, is permitted as a courtesy so that you may better participate and learn. If at any time the instructor judges that your use of an electronic device is becoming a distraction to others, you may be asked to to turn it off and put it away. On the other hand, if you encounter behavior that distracts from your learning, please inform the course staff. Please also refer to the CSU Principles of Community as a guideline for the expected behavior in the course: . | Inclusion: We create and nurture inclusive environments and welcome, value and affirm all members of our community, including their various identities, skills, ideas, talents and contributions. | Integrity: We are accountable for our actions and will act ethically and honestly in all our interactions. | Respect: We honor the inherent dignity of all people within an environment where we are committed to freedom of expression, critical discourse, and the advancement of knowledge. | Service: We are responsible, individually and collectively, to give of our time, talents, and resources to promote the well-being of each other and the development of our local, regional, and global communities. | Social Justice: We have the right to be treated and the responsibility to treat others with fairness and equity, the duty to challenge prejudice, and to uphold the laws, policies and procedures that promote justice in all respects. | . ",
-    "url": "/courses/cs580b1/2026fa/#respect-in-class",
+    "url": "/courses/cs580b1/2026fa/syllabus/#respect-in-class",
     
-    "relUrl": "/#respect-in-class"
+    "relUrl": "/syllabus/#respect-in-class"
   },"26": {
     "doc": "Home",
     "title": "Copyrighted Course Materials",
     "content": "Please do not share materials from this course in online, print, or other media. The course materials, include your or anyone else’s solutions to the lab assignments, quizzes, and exams. Materials authored by third parties and used in the course are also subject to copyright protections. Posting course materials on external sites (commercial or not) violates both copyright law and the CSU Student Conduct Code. In particular, do not post your solutions to the assignments and projects in a public source code repository, such as public GitHub repositories. Students who share course content without the instructor’s express permission, including with online sites that post materials to sell to other students, could face appropriate disciplinary or legal action. ",
-    "url": "/courses/cs580b1/2026fa/#copyrighted-course-materials",
+    "url": "/courses/cs580b1/2026fa/syllabus/#copyrighted-course-materials",
     
-    "relUrl": "/#copyrighted-course-materials"
+    "relUrl": "/syllabus/#copyrighted-course-materials"
   },"27": {
     "doc": "Home",
     "title": "Accommodations for Disabilities",
     "content": "We will go by the policies set forth by the University. Please inform the instructor about any accommodations you may need early in the semester. CSU is committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. If you are a student who will need accommodations in this class, please contact your instructor to discuss your individual needs. Any accommodation must be discussed in a timely manner. A verifying memo from The Student Disability Center (SDC) may be required before any accommodation is provided. The Student Disability Center (SDC) has the authority to verify and confirm the eligibility of students with disabilities for the majority of accommodations. While some accommodations may be provided by other departments, a student is not automatically eligible for those accommodations unless their disability can be verified and the need for the accommodation confirmed, either through SDC or through acceptable means defined by the particular department. Faculty and staff may consult with the SDC staff whenever there is doubt as to the appropriateness of an accommodative request by a student with a disability. The goal of SDC is to normalize disability as part of the culture of diversity at Colorado State University. The characteristic of having a disability simply provides the basis of the support that is available to students. The goal is to ensure students with disabilities have the opportunity to be as successful as they have the capability to be. Support and services are offered to student with functional limitations due to visual, hearing, learning, or mobility disabilities as well as to students who have specific physical or mental health conditions due to epilepsy, diabetes, asthma, AIDS, psychiatric diagnoses, etc. Students who are temporarily disabled are also eligible for support and assistance. Any student who is enrolled at CSU, and who self-identifies with SDC as having a disability, is eligible for support from SDC. Specific accommodations are determined individually for each student and must be supported by appropriate documentation and/or evaluation of needs consistent with a particular type of disability. SDC reserves the right to ask for any appropriate documentation of disability in order to determine a student’s eligibility for accommodations as well as in support for specific accommodative requests. The accommodative process begins once a student meets with an accommodation’s specialist in the SDC. ",
-    "url": "/courses/cs580b1/2026fa/#accommodations-for-disabilities",
+    "url": "/courses/cs580b1/2026fa/syllabus/#accommodations-for-disabilities",
     
-    "relUrl": "/#accommodations-for-disabilities"
+    "relUrl": "/syllabus/#accommodations-for-disabilities"
   },"28": {
     "doc": "Home",
     "title": "Student Case Management",
     "content": "We will go by the policies set forth by the University. The Student Case Management &amp; Referral Coordination office provides crisis prevention and intervention services. In difficult or crisis situations, students may find it challenging to navigate the academic consequences, university processes, and campus and community resources available. Student Case Management consult with students, faculty, staff, families, and providers to offer guidance on the next best steps. We help find the best approach to support students in the immediate situation and provide referrals for ongoing support. When students have difficult or life impacting issues that affect their academic work, it is recommended that you speak directly with your professor about your course work. Open and regular communication with your professor is the recommended first course of action. ",
-    "url": "/courses/cs580b1/2026fa/#student-case-management",
+    "url": "/courses/cs580b1/2026fa/syllabus/#student-case-management",
     
-    "relUrl": "/#student-case-management"
+    "relUrl": "/syllabus/#student-case-management"
   },"29": {
     "doc": "Home",
     "title": "Mental Health and Wellness",
     "content": "CSU is a community that cares. You are not alone. CSU Health Network Mental Health Services has trained professionals who can help. Your student fees provide access to a wide range of mental health and well-being support services. Call Mental Health Services at (970) 491-6053, and they will work together with you to find out which services are right for you. CSU Health Network Mental Health Services . Student mental health and well-being resources . If you are concerned about a friend or peer, use Tell Someone by calling (970) 491-1350 or visiting Tell Someone to share your concerns with a professional who can discreetly connect the distressed individual with the proper resources. Rams Take Care of Rams. Reach out and ask for help if you or someone you know is having a difficult time. ",
-    "url": "/courses/cs580b1/2026fa/#mental-health-and-wellness",
+    "url": "/courses/cs580b1/2026fa/syllabus/#mental-health-and-wellness",
     
-    "relUrl": "/#mental-health-and-wellness"
+    "relUrl": "/syllabus/#mental-health-and-wellness"
   },"30": {
     "doc": "Home",
     "title": "Title IX/Interpersonal Violence",
     "content": "We will go by the policies set forth by the University. For the full statement regarding role and responsibilities about reporting harassment, sexual harassment, sexual misconduct, domestic violence, dating violence, stalking, and the retaliation policy please go to: Title IX – Sexual Assault, Sexual Violence, Sexual Harassment. If you feel that your rights have been compromised at CSU, several resources are available to assist: . | Student Resolution Center, 200 Lory Student Center, 491-7165 | Office of Equal Opportunity, 101 Student Services, 491-5836 | . A note about interpersonal violence: If you or someone you know has experienced sexual assault, relationship violence and/or stalking, know that you are not alone. As instructors, we are required by law to notify university officials about disclosures related to interpersonal violence. Confidential victim advocates are available 24 hours a day, 365 days a year to provide support related to the emotional, physical, physiological and legal aftermath of interpersonal violence. Contact the Victim Assistance Team at: 970-492-4242. ",
-    "url": "/courses/cs580b1/2026fa/#title-ixinterpersonal-violence",
+    "url": "/courses/cs580b1/2026fa/syllabus/#title-ixinterpersonal-violence",
     
-    "relUrl": "/#title-ixinterpersonal-violence"
+    "relUrl": "/syllabus/#title-ixinterpersonal-violence"
   },"31": {
     "doc": "Home",
     "title": "Other Policies and Support Resources",
     "content": "Please see this for other policies relevant to the course and resources to help with various challenges you may encounter. ",
-    "url": "/courses/cs580b1/2026fa/#other-policies-and-support-resources",
+    "url": "/courses/cs580b1/2026fa/syllabus/#other-policies-and-support-resources",
     
-    "relUrl": "/#other-policies-and-support-resources"
+    "relUrl": "/syllabus/#other-policies-and-support-resources"
   },"32": {
     "doc": "Home",
     "title": "Acknowledgments",
     "content": "In preparing the materials for this course, I have consulted materials from similar courses offered at other universities. In particular, I referred to materials from Trustworthy ML by Rajeev Alur and Osbert Bastani, Trustworthy AI by Aditi Raghunathan, and Reliable and Trustworthy Artificial Intelligence by Martin Vechev. This website is generated using Jekyll with the theme Just the Class developed by Kevin Lin. ",
-    "url": "/courses/cs580b1/2026fa/#acknowledgments",
+    "url": "/courses/cs580b1/2026fa/syllabus/#acknowledgments",
     
-    "relUrl": "/#acknowledgments"
+    "relUrl": "/syllabus/#acknowledgments"
   },"33": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/courses/cs580b1/2026fa/",
+    "url": "/courses/cs580b1/2026fa/syllabus/",
     
-    "relUrl": "/"
+    "relUrl": "/syllabus/"
   }
 }
