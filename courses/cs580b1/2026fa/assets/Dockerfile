@@ -15,7 +15,8 @@ RUN pip install --no-cache-dir \
     pandas \
     scikit-learn \
     matplotlib \
-    torch torchvision torchaudio
+    torch torchvision torchaudio \
+    transformers accelerate
 
 EXPOSE 8012
 
